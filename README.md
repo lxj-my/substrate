@@ -3,7 +3,7 @@
 <p align="center">
   <img src="/docs/media/sub.gif">
 </p>
-hello 
+---hello world 
 
 Substrate is a next-generation framework for blockchain innovation 🚀.
 
